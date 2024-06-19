@@ -1,1 +1,2 @@
 # javaboot
+java
