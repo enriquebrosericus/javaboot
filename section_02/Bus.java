@@ -1,4 +1,4 @@
-package section_02;
+// package section_02;
 
 public class Bus {
    public static void main(String[] args) {
