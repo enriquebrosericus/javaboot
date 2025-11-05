@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Workbook 12.1" />
+    <orderEntry type="module" module-name="Extra Practice4" />
+    <orderEntry type="module" module-name="19. Capstone" />
+    <orderEntry type="module" module-name="Workbook 12.3" />
+    <orderEntry type="module" module-name="Extra Practice2" />
+    <orderEntry type="module" module-name="Workbook2" />
+    <orderEntry type="module" module-name="18. Interface" />
+    <orderEntry type="module" module-name="Workbook 12.2" />
+    <orderEntry type="module" module-name="Lesson" />
+    <orderEntry type="module" module-name="Extra Practice5" />
+    <orderEntry type="module" module-name="Workbook3" />
+  </component>
+</module>
