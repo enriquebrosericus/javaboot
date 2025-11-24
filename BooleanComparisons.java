@@ -14,7 +14,6 @@ public class BooleanComparisons {
         double temperature = 15.5;
         double targetTemperature = 20.0;
         System.out.println("Me: Hi Java, is the temperature colder than our target?");
-        System.out.println("Java: " + ompare here" + "\n");
 
         int currentSpeed = 60;
         int speedLimit = 70;
@@ -61,8 +60,13 @@ public class BooleanComparisons {
         String thirdWord = "hello";
         String fourthWord = "goodbye";
 
-        System.out.println("Me: Are the two words different");
+        System.out.println("Me: Are the two words different, Eric");
         System.out.println("Java: " + "compare here" + "\n");
+        if (thirdWord.equals(fourthWord)){
+            System.out.println("They match.");
+        } else {
+            System.out.println("They dont' match.");
+        }
 
 
     }
